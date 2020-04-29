@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    /*color: white;*/
+    background-color: lightblue;
+}
+
+.container {
+    margin-top: 40px;
+}
+.centered {
+    margin: 20px auto;
+    width: 90%;
+}
+/*form {
+    margin: 20px;
+}*/
+/*textarea {
+    width: 90%;
+}*/
+.comment_div {
+    color: red;
+}
+
+.message_p, .comment_form, .comment_div {
+    margin-left: 20px;
+}
+
+.right {
+    margin-left: 84%;
+}
